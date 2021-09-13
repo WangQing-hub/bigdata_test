@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# 1
 import jieba   #导入jieba库用来进行中文分词
 import pymongo   #MongoDB数据库的python驱动包
 
